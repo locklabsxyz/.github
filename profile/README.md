@@ -9,7 +9,7 @@
 
 ## About LockLabs Inc
 
-zkSync Era is a Layer 2 zkEVM designed to scale blockchains like the internet. With zkSync Era, EVM projects can easily take advantage of high-speed, low-cost transactions with the same security guarantees as Ethereum. Join us on our mission to accelerate mass adoption.
+LockLabs Inc Coming Soon!.
 
 [zkSync Era Documentation](https://era.zksync.io/docs/)
 
