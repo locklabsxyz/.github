@@ -1,4 +1,4 @@
-<p align="center"><a href="[https://zksync.io](https://locklabs.xyz/)" target="_blank"><img alt="zkSync Era zkEVM is Ethereum’s most user-centric ZK-rollup" title="LockLabs Inc" src="https://raw.githubusercontent.com/matter-labs/.github/main/header-image.png" width="100%">
+<p align="center"><a href="https://zksync.io" target="_blank"><img alt="zkSync Era zkEVM is Ethereum’s most user-centric ZK-rollup" title="zkSync Era zkEVM is Ethereum’s most user-centric ZK-rollup" src="https://raw.githubusercontent.com/matter-labs/.github/main/header-image.png" width="100%">
 </a>
 </p>
 
