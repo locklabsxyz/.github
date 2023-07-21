@@ -1,2 +1,2 @@
 # .github
-zkSync Organization
+LockLabs Inc
