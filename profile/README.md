@@ -7,4 +7,8 @@
 
 LockLabs Inc Coming Soon!.
 
+[BUILDING LAYERX ](https://layerx.build/)
+
+[BUILDING LAYERX ](https://raas.build/)])
+
 [Follow LockLabs Inc Twitter](https://twitter.com/LockLabsxyz)
