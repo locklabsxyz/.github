@@ -9,6 +9,10 @@ LockLabs Inc Coming Soon!.
 
 [BUILDING LAYERX ](https://layerx.build/)
 
+[BUILDING Minting Black ](https://minting.black/)
+
+[BUILDING L3 Nitro ](https://l3nitro.xyz/)
+
 [BUILDING RAAS.BUILD ](https://raas.build/)
 
 [Follow LockLabs Inc Twitter](https://twitter.com/LockLabsxyz)
